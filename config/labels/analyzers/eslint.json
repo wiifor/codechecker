@@ -1,0 +1,61 @@
+{
+    "analyzer": "eslint",
+    "labels": {
+        "@angular-eslint/component-selector": [
+            "doc_url:https://github.com/angular-eslint/angular-eslint/tree/main/packages/eslint-plugin/docs/rules/component-selector.md",
+            "severity:HIGH"
+        ],
+        "@angular-eslint/directive-selector": [
+            "doc_url:https://github.com/angular-eslint/angular-eslint/tree/main/packages/eslint-plugin/docs/rules/directive-selector.md",
+            "severity:HIGH"
+        ],
+        "@angular-eslint/template/banana-in-box": [
+            "doc_url:https://github.com/angular-eslint/angular-eslint/blob/main/packages/eslint-plugin-template/docs/rules/banana-in-box.md",
+            "severity:HIGH"
+        ],
+        "@angular-eslint/template/eqeqeq": [
+            "doc_url:https://github.com/angular-eslint/angular-eslint/blob/main/packages/eslint-plugin-template/docs/rules/eqeqeq.md",
+            "severity:HIGH"
+        ],
+        "@angular-eslint/template/no-negated-async": [
+            "doc_url:https://github.com/angular-eslint/angular-eslint/blob/main/packages/eslint-plugin-template/docs/rules/no-negated-async.md",
+            "severity:HIGH"
+        ],
+        "@typescript-eslint/explicit-function-return-type": [
+            "doc_url:https://typescript-eslint.io/rules/explicit-function-return-type",
+            "severity:HIGH"
+        ],
+        "@typescript-eslint/quotes": [
+            "doc_url:https://typescript-eslint.io/rules/quotes",
+            "severity:HIGH"
+        ],
+        "@typescript-eslint/typedef": [
+            "doc_url:https://typescript-eslint.io/rules/typedef",
+            "severity:HIGH"
+        ],
+        "eslint": [
+            "doc_url:https://eslint.org/docs/latest/rules/",
+            "severity:MEDIUM"
+        ],
+        "id-blacklist": [
+            "doc_url:https://eslint.org/docs/latest/rules/id-blacklist",
+            "severity:HIGH"
+        ],
+        "import/order": [
+            "doc_url:https://github.com/import-js/eslint-plugin-import/blob/main/docs/rules/order.md",
+            "severity:HIGH"
+        ],
+        "tsdoc/syntax": [
+            "doc_url:https://tsdoc.org/pages/packages/eslint-plugin-tsdoc",
+            "severity:LOW"
+        ],
+        "unused-imports/no-unused-imports": [
+            "doc_url:https://github.com/sweepline/eslint-plugin-unused-imports/blob/master/docs/rules/no-unused-imports.md",
+            "severity:HIGH"
+        ],
+        "unused-imports/no-unused-vars": [
+            "doc_url:https://github.com/sweepline/eslint-plugin-unused-imports/blob/master/docs/rules/no-unused-vars.md",
+            "severity:HIGH"
+        ]
+    }
+}

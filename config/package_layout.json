@@ -1,7 +1,7 @@
 {
   "runtime": {
     "analyzers": {
-      "clangsa": "clang",
+      "clangsa": "clang-14",
       "clang-tidy": "clang-tidy",
       "cppcheck": "cppcheck",
       "gcc": "g++"
