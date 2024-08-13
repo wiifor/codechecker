@@ -2,9 +2,9 @@
   "runtime": {
     "analyzers": {
       "clangsa": "clang-14",
-      "clang-tidy": "clang-tidy",
+      "clang-tidy": "clang-tidy-14",
       "cppcheck": "cppcheck",
-      "gcc": "g++"
+      "gcc": "g++-13"
     },
     "clang-apply-replacements": "clang-apply-replacements"
   },

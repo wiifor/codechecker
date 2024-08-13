@@ -149,6 +149,14 @@ IGNORED_OPTIONS_GCC = [
     '-mthumb-interwork$',
     '-mupdate$',
 
+    # GAP8 Warning.
+    '-fno-tree-loop-distribute-patterns',
+    '-mFC=',
+    '-mPE=',
+    '-mchip=',
+    '-mnativeomp',
+    '-mno-memcpy',
+
     # Deprecated ARM specific option
     # to Generate a stack frame that is compliant
     # with the ARM Procedure Call Standard.
